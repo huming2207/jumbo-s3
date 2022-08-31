@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/../external/esp-lib/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "Jackco")(type "KiCad")(uri "${KIPRJMOD}/../external/jackco-lib/JackcoLib.pretty")(options "")(descr ""))
+)
